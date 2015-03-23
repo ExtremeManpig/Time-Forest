@@ -395,7 +395,7 @@ ul, ol {
 }
 h1, h2, h3, h4, h5, h6 {
 	margin: 20px 0 10px 0;
-	color:#43BB22;
+	color:#54390F;
 	background-color: none ;
 	padding: 0 0 0 0px;
 	line-height: 85%;
@@ -485,10 +485,10 @@ img.logo {
 
 /* TABLES */
 table {
-	color:#54390F;
+	color:#000;
 	font-size:12px;
 	text-shadow: none;
-	background:#54390F;
+	background:#43BB22;
 	margin:0px;
 	border:#54390F 1px solid;
 	-moz-border-radius:3px;
@@ -501,11 +501,11 @@ table {
 }
 table th {
 	padding:15px 15px 15px 5px;
-	border-top:1px solid #2FD800;
+	border-top:1px solid #54390F;
 	border-bottom:1px solid ##269CBB;
 	font-size: 110% ;
 	background: #52CCEA;
-	background: -webkit-gradient(linear, left top, left bottom, from(#2FD800), to(#498427));
+	background: -webkit-gradient(linear, left top, left bottom,	from(#54390F), to(#43BB22));
 	background: -moz-linear-gradient(top,  #2FD800,  #498427);
 	text-align: left;
 }
@@ -1057,7 +1057,7 @@ th.ttCalendarBar {
 	width: 100%; 
 	text-align: right!important; 
 	background-image: none!important; 
-	background-color: #30D502!important
+	background-color: #54390F!important
 }
 span.ttSchoolCalendar {
 	color: #fff;
@@ -1119,8 +1119,8 @@ div.ttCurrent {
 	border: 1px solid rgb(136,136,136) ;
 }
 div.ttLesson {
-	background-color: rgb(104, 231, 129);
-	color: rgb(136,136,136) ;
+	background-color: rgb(103, 219, 126);
+	color: rgb(97, 84, 84) ;
 	border: 1px solid rgb(136,136,136) ;
 }
 div.ttPeriod {
